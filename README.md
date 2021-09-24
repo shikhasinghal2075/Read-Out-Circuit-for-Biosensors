@@ -20,7 +20,7 @@ The read out circuit that has been used in our project is based on a CTNI test. 
 ## The HARDWARE SECTION
 Here’s what the circuit looks like:
 
-![circuitDiagram](https://github.com/1998ramanpreet/Read-Out-Circuit-for-Biosensors/blob/main/circuitDiagram.jpg?raw=true)
+![circuitDiagram](https://github.com/1998ramanpreet/Read-Out-Circuit-for-Biosensors/blob/main/circuitDiagram.JPG?raw=true)
 
 Well….In reality it looks like this……
 
