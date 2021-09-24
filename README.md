@@ -52,7 +52,7 @@ One of the golden rules of op amp analysis says this: no current flows into eith
  <li>Generally speaking, when a device has higher resolution, it provides more detail, information, or definition than the device that has lower resolution.</li>
  </ul>
  ## USING LM324 and ArduinoUNO!
- [meme](https://github.com/1998ramanpreet/Read-Out-Circuit-for-Biosensors/blob/main/meme.png?raw=true)
+<img src="meme.png" alt="Italian Trulli">
 
 ## STRECHING OUR BOUNDARIES: USING ADS115 AND TSU111
 <ul>
