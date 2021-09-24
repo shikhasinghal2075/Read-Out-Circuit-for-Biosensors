@@ -37,6 +37,27 @@ Well….In reality it looks like this……
 </ul> 
 
 ## USING LM358 and Arduino UNO
+ <div class="row">
+  <div class="column">
+    <img src="breadBoardCircuit.jpg" alt="bbc" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="connectionsonpcb.jpeg" alt="cop" style="width:100%">
+  </div>
+</div>
+ /* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+} 
 MOVING TOWARDS BETTER RESOLUTION: LM324
 <ul>
   <li>WHY LM324 is better than LM358?<br>
