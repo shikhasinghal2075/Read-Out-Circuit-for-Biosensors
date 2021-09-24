@@ -61,6 +61,8 @@ The ADS1115 is an external digital analog converter (ADC) that we can connect to
 TSU111, TSU112 and the TSU114 are operational amplifiers (op-amp) which offer an ultra low-power consumption per channel of 900 nA typical and 1.2 μA maximum when supplied by 3.3 V. Combined with a supply voltage range of 1.5 V to 5.5 V. these features allow the TSU11x to be efficiently supplied by a coin type Lithium battery or a regulated voltage in low-power applications. 
 ## Results
   
+![result](https://github.com/1998ramanpreet/Read-Out-Circuit-for-Biosensors/blob/main/result.JPG?raw=true)
+  
 
 
   
