@@ -48,7 +48,7 @@ Well….In reality it looks like this……
  /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
   float: left;
-  width: 33.33%;
+  width: 50%;
   padding: 5px;
 }
 
