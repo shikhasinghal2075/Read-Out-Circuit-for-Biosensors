@@ -37,9 +37,6 @@ Well….In reality it looks like this……
 </ul> 
 
 ## USING LM358 and Arduino UNO
-
-![connectionsonpcb](https://github.com/1998ramanpreet/Read-Out-Circuit-for-Biosensors/blob/main/connectionsonpcb.jpeg?raw=true)
-
 MOVING TOWARDS BETTER RESOLUTION: LM324
 <ul>
   <li>WHY LM324 is better than LM358?<br>
