@@ -37,36 +37,7 @@ Well….In reality it looks like this……
 </ul> 
 
 ## USING LM358 and Arduino UNO
-<head>
-<style>
-* {
-  box-sizing: border-box;
-}
-
-.column {
-  float: left;
-  width: 50%;
-  padding: 5px;
-}
-
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
-</head>
-<div class="row">
-  <div class="column">
-    <img src="breadBoardCircuit.jpg" alt="bbc"width ="500" height="500"">
-  </div>
-  <div class="column">
-    <img src="connectionsonpcb.jpeg" alt="cop"width ="500" height="500"">
-  </div>
-</div>
-
-</body>
+<img src="connectionsonpcb.jpeg" alt="cop"width ="500" height="500"">
 
 MOVING TOWARDS BETTER RESOLUTION: LM324
 <ul>
