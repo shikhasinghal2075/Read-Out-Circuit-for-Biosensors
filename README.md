@@ -39,10 +39,10 @@ Well….In reality it looks like this……
 ## USING LM358 and Arduino UNO
 <div class="row">
   <div class="column">
-    <img src="breadBoardCircuit.jpg" alt="bbc"width ="400" height="400"">
+    <img src="breadBoardCircuit.jpg" alt="bbc"width ="500" height="500" align="left"">
   </div>
   <div class="column">
-    <img src="connectionsonpcb.jpeg" alt="cop"width ="400" height="400"">
+    <img src="connectionsonpcb.jpeg" alt="cop"width ="500" height="500" align="right"">
   </div>
 </div>
 
