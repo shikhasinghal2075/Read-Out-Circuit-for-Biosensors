@@ -1,7 +1,7 @@
 # Read-Out-Circuit-for-Biosensors
 The readout circuit is designed to (read) the value of the sample electrode, and display its value on LCD.
 The read out circuit that has been used in our project is based on a CTNI test. The readout circuit has been designed to accurately predict the amount of troponin in the blood, by the means of conductivity of analyte.
----
+
 ## So That's how it all started!!!
  <ul>
   <li>CTNI TEST</li>
@@ -16,3 +16,6 @@ The read out circuit that has been used in our project is based on a CTNI test. 
   <li>THE HARDWARE SECTION: Designing and working on the hardware section, taking readings, improving resolution</li>
   <li>THE DISPLAY SECTION: Development of an app which was bluetooth controlled</li>
 </ul> 
+
+## The HARDWARE SECTION
+Here’s what the circuit looks like:
