@@ -64,10 +64,10 @@ Well….In reality it looks like this……
 
 <div class="row">
   <div class="column">
-    <img src="breadBoardCircuit.jpg" alt="bbc" style="width:100%">
+    <img src="breadBoardCircuit.jpg" alt="bbc"">
   </div>
   <div class="column">
-    <img src="connectionsonpcb.jpg" alt="cop" style="width:100%">
+    <img src="connectionsonpcb.jpeg" alt="cop"">
   </div>
 </div>
 
