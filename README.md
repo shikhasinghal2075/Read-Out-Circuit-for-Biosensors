@@ -37,7 +37,7 @@ Well….In reality it looks like this……
 </ul> 
 
 ## USING LM358 and Arduino UNO
-## MOVING TOWARDS BETTER RESOLUTION: LM324
+MOVING TOWARDS BETTER RESOLUTION: LM324
 <ul>
   <li>WHY LM324 is better than LM358?<br>
   Lm324 has the biasing current of 45nA whereas the LM358 has the biasing current of 100nA.</li>
@@ -51,8 +51,9 @@ One of the golden rules of op amp analysis says this: no current flows into eith
  <li>In fact,  ADCs are often described by their resolution.   When we hear that a device has a 10 bit Analog to Digital Converter,  we know that it uses ten digital bits to describe an analog value.  Similarly, a 24 bit Analog to Digital converter will use 24 pieces of information to tell us what the analog value is.</li>
  <li>Generally speaking, when a device has higher resolution, it provides more detail, information, or definition than the device that has lower resolution.</li>
  </ul>
- ## USING LM324 and ArduinoUNO
-<!--  -->meme
+ ## USING LM324 and ArduinoUNO!
+ [meme](https://github.com/1998ramanpreet/Read-Out-Circuit-for-Biosensors/blob/main/meme.png?raw=true)
+
 ## STRECHING OUR BOUNDARIES: USING ADS115 AND TSU111
 <ul>
  <li>Why ADS1115?<br>ADS1115 is a 16 bit analog to digital convertor. Earlier we were using 10 bit ADC in Arduino Uno or 12 bit ADC in Arduino Due. In order to display the exact same value of the voltage and resistances, we need to increase the resolution of our ADC’s. Due to unavailability of higher bit ADC’s in Arduino modules, we went for an external ADC which could further be interfaced with Arduino.<br>
