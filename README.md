@@ -37,7 +37,8 @@ Well….In reality it looks like this……
 </ul> 
 
 ## USING LM358 and Arduino UNO
-<img src="connectionsonpcb.jpeg" alt="cop"width ="500" height="500"">
+
+![connectionsonpcb](https://github.com/1998ramanpreet/Read-Out-Circuit-for-Biosensors/blob/main/connectionsonpcb.jpeg?raw=true)
 
 MOVING TOWARDS BETTER RESOLUTION: LM324
 <ul>
