@@ -73,11 +73,12 @@ TSU111, TSU112 and the TSU114 are operational amplifiers (op-amp) which offer an
 
   <table>
   <tr>
-    <td>One</td>
-    <td>Two</td>
+    <td>Bias Current of Op-amp: 100nA</td>
+    <td>Resolution of ADC: 10 bits   </td>
   </tr>
   <tr>
-    <td colspan="2">Three</td>
+    <td>Maximum resistance = 5M&ohm; </td>
+   <td >Maximum resistance = 5M&ohm; </td>
   </tr>
 </table>
 
