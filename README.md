@@ -66,9 +66,9 @@ TSU111, TSU112 and the TSU114 are operational amplifiers (op-amp) which offer an
 ![result](https://github.com/1998ramanpreet/Read-Out-Circuit-for-Biosensors/blob/main/result.JPG?raw=true)
 
 | Bias Current of Op-amp: 100nA        | Resolution of ADC: 10 bits                              | 
-| ------------------------------------ |:-------------------------------------------------------:| 
-                                       |:-------------------------------------------------------:| 
+| ------------------------------------ |:-------------------------------------------------------:|                                    
 | Maximum resistance = 5M&ohm;         | Reference Voltage = 5V     | Reference Voltage = 1.1V   |
+                                       |:-------------------------------------------------------:| 
 |                                      | Change in Voltage = 4.88mV | Change in Voltage = 4.88mV |
   
 
