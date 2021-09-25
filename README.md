@@ -54,7 +54,7 @@ Well….In reality it looks like this……
   </tr>
 </table>
 
-![connectionsonpcb](https://github.com/1998ramanpreet/Read-Out-Circuit-for-Biosensors/blob/main/connectionsonpcb.jpeg?raw=true)
+<img src="connectionsonpcb.jpeg" alt="connectionsonpcb">
 
 ## MOVING TOWARDS BETTER RESOLUTION: LM324
 <ul>
