@@ -64,6 +64,12 @@ TSU111, TSU112 and the TSU114 are operational amplifiers (op-amp) which offer an
 ## Results
   
 ![result](https://github.com/1998ramanpreet/Read-Out-Circuit-for-Biosensors/blob/main/result.JPG?raw=true)
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
   
 
 
