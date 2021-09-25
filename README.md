@@ -37,7 +37,24 @@ Well….In reality it looks like this……
 </ul> 
 
 ## USING LM358 and Arduino UNO
-MOVING TOWARDS BETTER RESOLUTION: LM324
+  <table>
+  <tr>
+    <th>Bias Current of Op-amp: 100nA</th>
+    <th colspan="2">Resolution of ADC: 10 bits   </th>
+  </tr>
+  <tr>
+    <td>Maximum resistance = 5M&ohm; </td>
+    <td>Reference Voltage = 5V </td>
+    <td>Reference Voltage = 1.1V </td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Change in Voltage = 4.88mV </td>
+    <td>Change in Voltage = 1.074mV </td>
+  </tr>
+</table>
+
+## MOVING TOWARDS BETTER RESOLUTION: LM324
 <ul>
   <li>WHY LM324 is better than LM358?<br>
   Lm324 has the biasing current of 45nA whereas the LM358 has the biasing current of 100nA.</li>
@@ -63,25 +80,9 @@ TSU111, TSU112 and the TSU114 are operational amplifiers (op-amp) which offer an
 
 ## Results
   
-![result](https://github.com/1998ramanpreet/Read-Out-Circuit-for-Biosensors/blob/main/result.JPG?raw=true)
+![result](https://github.com/1998ramanpreet/Read-Out-Circuit-for-Biosensors/blob/main/result.JPG?raw=true) 
 
-| Bias Current of Op-amp: 100nA        | Resolution of ADC: 10 bits                              | 
-| ------------------------------------ |:-------------------------------------------------------:|                                    
-| Maximum resistance = 5M&ohm;         | Reference Voltage = 5V     | Reference Voltage = 1.1V   |
-|                                      | Change in Voltage = 4.88mV | Change in Voltage = 4.88mV |
-  
 
-  <table>
-  <tr>
-    <td>Bias Current of Op-amp: 100nA</td>
-    <td colspan="2">Resolution of ADC: 10 bits   </td>
-  </tr>
-  <tr>
-    <td>Maximum resistance = 5M&ohm; </td>
-    <td>Reference Voltage = 5V </td>
-    <td>Reference Voltage = 1.1V </td>
-  </tr>
-</table>
 
   
 
